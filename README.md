@@ -30,10 +30,13 @@ This project presents a comprehensive analysis of e-commerce performance using M
 
 ## Resources
 
-- **Dashboard Visualization:** ![E-Commerce Dashboard](E-COMMERCE.jpg)
-- **Excel Workbook:** [Ecommerce Sales Analysis.xlsx](Ecommerce%20Sales%20Analysis.xlsx)
+https://github.com/user-attachments/assets/0736b376-ba46-4fe0-8122-5b507c03342f
+
 
 ## Conclusion
 
 This analysis provides a clear view of the e-commerce business's current standing, emphasizing areas of strength and opportunities for improvement. The insights derived can inform strategic decisions to enhance profitability and market reach.
+
+
+
 
